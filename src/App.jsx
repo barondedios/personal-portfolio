@@ -86,8 +86,8 @@ function App() {
                   </div>
                   <h2 className="mb-4">I’m a Digital Artist and an aspiring Game Developer.</h2>
                   <p className="mb-4">
-                    <a className="custom-btn btn custom-link" href="#section_2">
-                      Let's begin
+                    <a className="custom-btn btn custom-link" href="files/resume.pdf">
+                      View Resume
                     </a>
                   </p>
                 </div>
@@ -284,16 +284,16 @@ function App() {
                   <div className="col-lg-6 col-12">
                     <div className="services-thumb">
                       <div className="d-flex flex-wrap align-items-center border-bottom mb-4 pb-3">
-                        <h3 className="mb-0">LinkedIn</h3>
+                        <h3 className="mb-0">GitHub</h3>
                         <div className="services-price-wrap ms-auto">
-                          <p className="services-price-text mb-0">0+ Followers</p>
+                          <p className="services-price-text mb-0">3+ Followers</p>
                           <div className="services-price-overlay" />
                         </div>
                       </div>
                       <p>
-                        If you wish to view my certificates and credentials.
+                        If you wish to view my repositories and projects.
                       </p>
-                      <a href="https://www.linkedin.com/in/aaronjobbacani/" className="custom-btn custom-border-btn btn mt-3">
+                      <a href="https://github.com/barondedios" className="custom-btn custom-border-btn btn mt-3">
                         Discover More
                       </a>
                       <div className="services-icon-wrap d-flex justify-content-center align-items-center">
@@ -324,15 +324,15 @@ function App() {
               <div className="col-lg-4 col-md-6 col-12">
                 <div className="projects-thumb">
                   <div className="projects-info">
-                    <small className="projects-tag">Branding</small>
-                    <h3 className="projects-title">Zoik agency</h3>
+                    <small className="projects-tag">Digital Illustrations</small>
+                    <h3 className="projects-title">Made in Krita</h3>
                   </div>
                   <a
-                    href="images/projects/nikhil-KO4io-eCAXA-unsplash.jpg"
+                    href="images/projects/drawing1.png"
                     className="popup-image"
                   >
                     <img
-                      src="images/projects/nikhil-KO4io-eCAXA-unsplash.jpg"
+                      src="images/projects/drawing1.png"
                       className="projects-image img-fluid"
                       alt=""
                     />
@@ -342,15 +342,15 @@ function App() {
               <div className="col-lg-4 col-md-6 col-12">
                 <div className="projects-thumb">
                   <div className="projects-info">
-                    <small className="projects-tag">Photography</small>
-                    <h3 className="projects-title">The Watch</h3>
+                    <small className="projects-tag">Game Development</small>
+                    <h3 className="projects-title">Unity</h3>
                   </div>
                   <a
-                    href="images/projects/the-5th-IQYR7N67dhM-unsplash.jpg"
+                    href="images/projects/gamdev.jpg"
                     className="popup-image"
                   >
                     <img
-                      src="images/projects/the-5th-IQYR7N67dhM-unsplash.jpg"
+                      src="images/projects/gamdev.jpg"
                       className="projects-image img-fluid"
                       alt=""
                     />
@@ -360,15 +360,15 @@ function App() {
               <div className="col-lg-4 col-md-6 col-12">
                 <div className="projects-thumb">
                   <div className="projects-info">
-                    <small className="projects-tag">Website</small>
-                    <h3 className="projects-title">Polo</h3>
+                    <small className="projects-tag">GitHub Repositories</small>
+                    <h3 className="projects-title">View my Github</h3>
                   </div>
                   <a
-                    href="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg"
+                    href="https://github.com/barondedios"
                     className="popup-image"
                   >
                     <img
-                      src="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg"
+                      src="images/projects/drawing2.png"
                       className="projects-image img-fluid"
                       alt=""
                     />
@@ -400,24 +400,15 @@ function App() {
                   <ul className="footer-menu">
                     <li className="footer-menu-item">
                       <a href="#" className="footer-menu-link">
-                        Websites
+                        Digital Illustration
                       </a>
                     </li>
                     <li className="footer-menu-item">
                       <a href="#" className="footer-menu-link">
-                        Branding
+                        Game Development
                       </a>
                     </li>
-                    <li className="footer-menu-item">
-                      <a href="#" className="footer-menu-link">
-                        Ecommerce
-                      </a>
-                    </li>
-                    <li className="footer-menu-item">
-                      <a href="#" className="footer-menu-link">
-                        SEO
-                      </a>
-                    </li>
+                  
                   </ul>
                   <strong className="site-footer-title d-block mt-4 mb-3">
                     Stay connected
@@ -425,19 +416,19 @@ function App() {
                   <ul className="social-icon">
                     <li className="social-icon-item">
                       <a
-                        href="https://twitter.com/minthu"
+                        href="https://twitter.com"
                         className="social-icon-link bi-twitter"
                       />
                     </li>
                     <li className="social-icon-item">
-                      <a href="#" className="social-icon-link bi-instagram" />
+                      <a href="https://instagram.com" className="social-icon-link bi-instagram" />
                     </li>
                     <li className="social-icon-item">
-                      <a href="#" className="social-icon-link bi-pinterest" />
+                      <a href="https://pinterest.com" className="social-icon-link bi-pinterest" />
                     </li>
                     <li className="social-icon-item">
                       <a
-                        href="https://www.youtube.com/templatemo"
+                        href="https://www.youtube.com"
                         className="social-icon-link bi-youtube"
                       />
                     </li>
@@ -452,154 +443,26 @@ function App() {
                 <div className="contact-info d-flex flex-column">
                   <strong className="site-footer-title d-block mb-3">About</strong>
                   <p className="mb-2">
-                    Joshua is a professional web developer. Feel free to get in
+                    Aaron is a digital artist and an aspiring game developer. Feel free to get in
                     touch with me.
                   </p>
                   <strong className="site-footer-title d-block mt-4 mb-3">
                     Email
                   </strong>
                   <p>
-                    <a href="mailto:hello@josh.design">hello@josh.design</a>
+                    <a href="mailto:hello@josh.design">realbarondedios@gmail.com</a>
                   </p>
                   <strong className="site-footer-title d-block mt-4 mb-3">
                     Call
                   </strong>
                   <p className="mb-0">
-                    <a href="tel: 120-240-9600">120-240-9600</a>
+                    <a href="tel: 120-240-9600">+(63)918-906-3002</a>
                   </p>
                 </div>
               </div>
-              <div className="col-lg-6 col-12 mt-5 mt-lg-0">
-                <form
-                  action="#"
-                  method="get"
-                  className="custom-form contact-form"
-                  role="form"
-                >
-                  <div className="row">
-                    <div className="col-lg-6 col-md-6 col-12">
-                      <div className="form-floating">
-                        <input
-                          type="text"
-                          name="name"
-                          id="name"
-                          className="form-control"
-                          placeholder="Name"
-                          required=""
-                        />
-                        <label htmlFor="floatingInput">Name</label>
-                      </div>
-                    </div>
-                    <div className="col-lg-6 col-md-6 col-12">
-                      <div className="form-floating">
-                        <input
-                          type="email"
-                          name="email"
-                          id="email"
-                          pattern="[^ @]*@[^ @]*"
-                          className="form-control"
-                          placeholder="Email address"
-                          required=""
-                        />
-                        <label htmlFor="floatingInput">Email address</label>
-                      </div>
-                    </div>
-                    <div className="col-lg-3 col-md-6 col-6">
-                      <div className="form-check form-check-inline">
-                        <input
-                          name="website"
-                          type="checkbox"
-                          className="form-check-input"
-                          id="inlineCheckbox1"
-                          defaultValue={1}
-                        />
-                        <label
-                          className="form-check-label"
-                          htmlFor="inlineCheckbox1"
-                        >
-                          <i className="bi-globe form-check-icon" />
-                          <span className="form-check-label-text">Websites</span>
-                        </label>
-                      </div>
-                    </div>
-                    <div className="col-lg-3 col-md-6 col-6">
-                      <div className="form-check form-check-inline">
-                        <input
-                          name="branding"
-                          type="checkbox"
-                          className="form-check-input"
-                          id="inlineCheckbox2"
-                          defaultValue={1}
-                        />
-                        <label
-                          className="form-check-label"
-                          htmlFor="inlineCheckbox2"
-                        >
-                          <i className="bi-lightbulb form-check-icon" />
-                          <span className="form-check-label-text">Branding</span>
-                        </label>
-                      </div>
-                    </div>
-                    <div className="col-lg-3 col-md-6 col-6">
-                      <div className="form-check form-check-inline">
-                        <input
-                          name="ecommerce"
-                          type="checkbox"
-                          className="form-check-input"
-                          id="inlineCheckbox3"
-                          defaultValue={1}
-                        />
-                        <label
-                          className="form-check-label"
-                          htmlFor="inlineCheckbox3"
-                        >
-                          <i className="bi-phone form-check-icon" />
-                          <span className="form-check-label-text">Ecommerce</span>
-                        </label>
-                      </div>
-                    </div>
-                    <div className="col-lg-3 col-md-6 col-6">
-                      <div className="form-check form-check-inline me-0">
-                        <input
-                          name="seo"
-                          type="checkbox"
-                          className="form-check-input"
-                          id="inlineCheckbox4"
-                          defaultValue={1}
-                        />
-                        <label
-                          className="form-check-label"
-                          htmlFor="inlineCheckbox4"
-                        >
-                          <i className="bi-google form-check-icon" />
-                          <span className="form-check-label-text">SEO</span>
-                        </label>
-                      </div>
-                    </div>
-                    <div className="col-lg-12 col-12">
-                      <div className="form-floating">
-                        <textarea
-                          className="form-control"
-                          id="message"
-                          name="message"
-                          placeholder="Tell me about the project"
-                          defaultValue={""}
-                        />
-                        <label htmlFor="floatingTextarea">
-                          Tell me about the project
-                        </label>
-                      </div>
-                    </div>
-                    <div className="col-lg-3 col-12 ms-auto">
-                      <button type="submit" className="form-control">
-                        Send
-                      </button>
-                    </div>
-                  </div>
-                </form>
-              </div>
             </div>
           </div>
+          
         </section>
       </main>
       <footer className="site-footer">
