@@ -115,7 +115,7 @@ function App() {
             <div className="row">
               <div className="col-lg-6 col-12">
                 <img
-                  src="images/couple-working-from-home-together-sofa.jpg"
+                  src="images/aaron-camera.jpeg"
                   className="about-image img-fluid"
                   alt=""
                 />
@@ -125,36 +125,21 @@ function App() {
                   <div className="section-title-wrap d-flex justify-content-end align-items-center mb-4">
                     <h2 className="text-white me-4 mb-0">My Story</h2>
                     <img
-                      src="images/happy-bearded-young-man.jpg"
+                      src="images/my-face-1.jpeg"
                       className="avatar-image img-fluid"
                       alt=""
                     />
                   </div>
-                  <h3 className="pt-2 mb-3">a little bit about Joshua</h3>
+                  <h3 className="pt-2 mb-3">a little bit about Aaron</h3>
                   <p>
-                    This one-page HTML portfolio is provided by{" "}
-                    <a href="https://templatemo.com" target="_blank">
-                      TemplateMo
-                    </a>
-                    . This layout is based on Bootstrap v5.1.3 CSS and JS libraries.
-                    Image credits go to{" "}
-                    <a href="https://unsplash.com" target="_blank">
-                      Unsplash
-                    </a>{" "}
-                    and{" "}
-                    <a href="https://freepik.com" target="_blank">
-                      FreePik
-                    </a>{" "}
-                    for images used in this page.
+                    Ever since I was a kid, I was deeply passionate about anime and video game stories, lore, and characters.
+                    I love making my own stories, my own character creation and illustrations. I have over 700 hours of 
+                    experience in Digital Art and has been drawing for more than a year.
+        
                   </p>
                   <p>
-                    You are allowed to use this template for your websites. You are
-                    not allowed to redistribute the template ZIP file on any other
-                    website. Please{" "}
-                    <a href="https://templatemo.com/contact" target="_blank">
-                      contact us
-                    </a>{" "}
-                    for more info.
+                    I am also deeply passionate about 2D games like Pokemon Emerald, Stardew Valley, and Terraria. 
+                    As of now, i'm currently studying Unity for making 2D games.
                   </p>
                 </div>
               </div>
@@ -172,22 +157,22 @@ function App() {
                   <div className="profile-body">
                     <p>
                       <span className="profile-small-title">Name</span>
-                      <span>Joshua Morgan</span>
+                      <span>Aaron Bacani</span>
                     </p>
                     <p>
                       <span className="profile-small-title">Birthday</span>
-                      <span>Aug 12, 1986</span>
+                      <span>June --, 2004</span>
                     </p>
                     <p>
                       <span className="profile-small-title">Phone</span>
                       <span>
-                        <a href="tel: 305-240-9671">120-240-9600</a>
+                        <a href="tel: 305-240-9671">+(63)918-906-3002</a>
                       </span>
                     </p>
                     <p>
                       <span className="profile-small-title">Email</span>
                       <span>
-                        <a href="mailto:hello@josh.design">hello@josh.design</a>
+                        <a href="mailto:hello@josh.design">realbarondedios@gmail.com</a>
                       </span>
                     </p>
                   </div>
@@ -197,20 +182,20 @@ function App() {
                 <div className="about-thumb">
                   <div className="row">
                     <div className="col-lg-6 col-6 featured-border-bottom py-2">
-                      <strong className="featured-numbers">20+</strong>
-                      <p className="featured-text">Years of Experiences</p>
+                      <strong className="featured-numbers">700+</strong>
+                      <p className="featured-text">Hours of Experience in Krita</p>
                     </div>
                     <div className="col-lg-6 col-6 featured-border-start featured-border-bottom ps-5 py-2">
-                      <strong className="featured-numbers">245</strong>
-                      <p className="featured-text">Happy Customers</p>
+                      <strong className="featured-numbers">100+</strong>
+                      <p className="featured-text">Digital Illustration Done</p>
                     </div>
                     <div className="col-lg-6 col-6 pt-4">
-                      <strong className="featured-numbers">640</strong>
-                      <p className="featured-text">Project Finished</p>
+                      <strong className="featured-numbers">20+</strong>
+                      <p className="featured-text">Hours of Experience in Unity</p>
                     </div>
                     <div className="col-lg-6 col-6 featured-border-start ps-5 pt-4">
-                      <strong className="featured-numbers">72+</strong>
-                      <p className="featured-text">Digital Awards</p>
+                      <strong className="featured-numbers">0+</strong>
+                      <p className="featured-text">Commissions Done</p>
                     </div>
                   </div>
                 </div>
@@ -222,39 +207,39 @@ function App() {
           <div className="container">
             <div className="row align-items-center">
               <div className="col-lg-12 col-12">
-                <h3 className="text-center mb-5">Companies I've had worked</h3>
+                <h3 className="text-center mb-5">Tech Stach/Multi-media</h3>
               </div>
               <div className="col-lg-2 col-4 ms-auto clients-item-height">
                 <img
-                  src="images/clients/cachet.svg"
+                  src="images/clients/godot.svg"
                   className="clients-image img-fluid"
                   alt=""
                 />
               </div>
               <div className="col-lg-2 col-4 clients-item-height">
                 <img
-                  src="images/clients/guitar-center.svg"
+                  src="images/clients/krita.svg"
                   className="clients-image img-fluid"
                   alt=""
                 />
               </div>
               <div className="col-lg-2 col-4 clients-item-height">
                 <img
-                  src="images/clients/tokico.svg"
+                  src="images/clients/unity.png"
                   className="clients-image img-fluid"
                   alt=""
                 />
               </div>
               <div className="col-lg-2 col-4 clients-item-height">
                 <img
-                  src="images/clients/shopify.svg"
+                  src="images/clients/photoshop.png"
                   className="clients-image img-fluid"
                   alt=""
                 />
               </div>
               <div className="col-lg-2 col-4 me-auto clients-item-height">
                 <img
-                  src="images/clients/profil-rejser.svg"
+                  src="images/clients/gimp.png"
                   className="clients-image img-fluid"
                   alt=""
                 />
@@ -272,23 +257,22 @@ function App() {
                     className="avatar-image img-fluid"
                     alt=""
                   />
-                  <h2 className="text-white ms-4 mb-0">Services</h2>
+                  <h2 className="text-white ms-4 mb-0">Social Media</h2>
                 </div>
                 <div className="row pt-lg-5">
                   <div className="col-lg-6 col-12">
                     <div className="services-thumb">
                       <div className="d-flex flex-wrap align-items-center border-bottom mb-4 pb-3">
-                        <h3 className="mb-0">Websites</h3>
+                        <h3 className="mb-0">Youtube</h3>
                         <div className="services-price-wrap ms-auto">
-                          <p className="services-price-text mb-0">$2,400</p>
+                          <p className="services-price-text mb-0">500+ Subs</p>
                           <div className="services-price-overlay" />
                         </div>
                       </div>
                       <p>
-                        You may want to explore Too CSS for great collection of free
-                        HTML CSS templates.
+                        You may want to view my content creations.
                       </p>
-                      <a href="#" className="custom-btn custom-border-btn btn mt-3">
+                      <a href="https://www.youtube.com/@theikegaiofficial" className="custom-btn custom-border-btn btn mt-3">
                         Discover More
                       </a>
                       <div className="services-icon-wrap d-flex justify-content-center align-items-center">
@@ -296,41 +280,20 @@ function App() {
                       </div>
                     </div>
                   </div>
-                  <div className="col-lg-6 col-12">
-                    <div className="services-thumb services-thumb-up">
-                      <div className="d-flex flex-wrap align-items-center border-bottom mb-4 pb-3">
-                        <h3 className="mb-0">Branding</h3>
-                        <div className="services-price-wrap ms-auto">
-                          <p className="services-price-text mb-0">$1,200</p>
-                          <div className="services-price-overlay" />
-                        </div>
-                      </div>
-                      <p>
-                        You can explore more CSS templates on TemplateMo website by
-                        browsing through different tags.
-                      </p>
-                      <a href="#" className="custom-btn custom-border-btn btn mt-3">
-                        Discover More
-                      </a>
-                      <div className="services-icon-wrap d-flex justify-content-center align-items-center">
-                        <i className="services-icon bi-lightbulb" />
-                      </div>
-                    </div>
-                  </div>
+                  
                   <div className="col-lg-6 col-12">
                     <div className="services-thumb">
                       <div className="d-flex flex-wrap align-items-center border-bottom mb-4 pb-3">
-                        <h3 className="mb-0">Ecommerce</h3>
+                        <h3 className="mb-0">LinkedIn</h3>
                         <div className="services-price-wrap ms-auto">
-                          <p className="services-price-text mb-0">$3,600</p>
+                          <p className="services-price-text mb-0">0+ Followers</p>
                           <div className="services-price-overlay" />
                         </div>
                       </div>
                       <p>
-                        If you need a customized ecommerce website for your
-                        business, feel free to discuss with me.
+                        If you wish to view my certificates and credentials.
                       </p>
-                      <a href="#" className="custom-btn custom-border-btn btn mt-3">
+                      <a href="https://www.linkedin.com/in/aaronjobbacani/" className="custom-btn custom-border-btn btn mt-3">
                         Discover More
                       </a>
                       <div className="services-icon-wrap d-flex justify-content-center align-items-center">
@@ -338,28 +301,7 @@ function App() {
                       </div>
                     </div>
                   </div>
-                  <div className="col-lg-6 col-12">
-                    <div className="services-thumb services-thumb-up">
-                      <div className="d-flex flex-wrap align-items-center border-bottom mb-4 pb-3">
-                        <h3 className="mb-0">SEO</h3>
-                        <div className="services-price-wrap ms-auto">
-                          <p className="services-price-text mb-0">$1,450</p>
-                          <div className="services-price-overlay" />
-                        </div>
-                      </div>
-                      <p>
-                        To list your website first on any search engine, we will
-                        work together. First Portfolio is one-page CSS Template for
-                        free download.
-                      </p>
-                      <a href="#" className="custom-btn custom-border-btn btn mt-3">
-                        Discover More
-                      </a>
-                      <div className="services-icon-wrap d-flex justify-content-center align-items-center">
-                        <i className="services-icon bi-google" />
-                      </div>
-                    </div>
-                  </div>
+                  
                 </div>
               </div>
             </div>
